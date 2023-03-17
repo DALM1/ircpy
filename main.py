@@ -2,8 +2,8 @@ import socket
 
 server = "chat.freenode.net"
 port = 6667
-nickname = "my_nickname"
-channel = "#my_channel"
+nickname = "DALM1"
+channel = "#DALM1_channel"
 
 irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 irc.connect((server, port))
