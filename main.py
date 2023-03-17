@@ -3,7 +3,7 @@ import threading
 
 server = "chat.freenode.net"
 port = 6667
-nickname = "DALM1"
+nickname = "dalm-1"
 channel = "#DALM1_channel"
 
 irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
